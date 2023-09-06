@@ -1,0 +1,36 @@
+{
+  "UserInfo": [
+    {
+      "UserId": "1",
+      "firstName": "testeeee",
+      "Surname": "Experience",
+      "PlayerDEsc": "mágico",
+      "pontuacao": "523",
+      "time": "vermelho"
+    },
+    {
+      "UserId": "2",
+      "firstName": "Nome 1",
+      "Surname": "Ao VIVO",
+      "PlayerDEsc": "guerreiro",
+      "pontuacao": "2223",
+      "time": "azul"
+    },
+    {
+      "UserId": "3",
+      "firstName": "Nome 2",
+      "Surname": "Ao VIVO",
+      "PlayerDEsc": "funileiro",
+      "pontuacao": "5452",
+      "time": "azul"
+    },
+    {
+      "UserId": "4",
+      "firstName": "Nome 3",
+      "Surname": "Ao VIVO",
+      "PlayerDEsc": "nadador",
+      "pontuacao": "5563",
+      "time": "amarelo"
+    }
+  ]
+}
